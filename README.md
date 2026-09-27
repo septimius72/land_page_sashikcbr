@@ -6,3 +6,5 @@ Interactive UI: Dynamic modal resume view, copy-to-clipboard toast messages
 Interconnected Sourcing Links: Seamless routing to Alex's Weebly domain sections and social profiles
 Hosting
 Hosted on GitHub Pages via static export.
+
+Open via : > Open with ** ( use chrome for best viewing, but Mozilla/Firefox, Brave and Safari work just fine)
